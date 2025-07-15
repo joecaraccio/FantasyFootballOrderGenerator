@@ -2,6 +2,8 @@
 
 Goal to generate a completely Fair Fantasy Football Order. Completely Transparent and fully open sourced. 
 
+
+
 ## Procedure
 
 1. The source of this executable, generated simply from 'main.go' is publically available in this repository. This source will be available and unchanged, unless the hardcoded list of names must be changed. It uses all public, open source modules (link in comments) that allow reading. No other sources. 
@@ -23,6 +25,8 @@ The top right hamburger menu when clicked, provides a download link.
 1. After each iteration, the RANDOMIZER (Teigue) and 1 additional member must confirm the iteration is complete.
 
 1. On the final iteration, the order is determined, the SHA256 checksum (printed at the end) must match the value listed prior in this document. This is officially the picking order and will be used to determine picking for Draft positions.
+
+
 
 
 ## Technical Details 
