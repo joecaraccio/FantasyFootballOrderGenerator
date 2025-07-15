@@ -12,7 +12,7 @@ Goal to generate a completely Fair Fantasy Football Order. Completely Transparen
 
 1. On pick order night, once > 7 League Members (exclusing the League Commisioner Joe) and at least 1 Non League Member are in the Discord, and can confirm that they can see the PICKERS (Jon K)'s Discord Stream, the process may begin.
 
-1. PICKER (Jon K) must navigate to this Repo's compiled executable and download it. The file is called `generate_fantasy_order.exe`.  [Link to Executable Here](https://github.com/joecaraccio/FantasyFootballOrderGenerator/blob/main/generate_fantasy_order.exe). The top right hamburger menu when clicked, provides a download link.
+1. PICKER (Jon K) must navigate to this Repo and download it. This will download a .zip of the whole repo, then simply extract it.  [Link to Repo Download Here](https://github.com/joecaraccio/FantasyFootballOrderGenerator/archive/refs/heads/main.zip). The top right hamburger menu when clicked, provides a download link.
 
 1. Once succesfully clicked, the PICKER (Jon K) must show the downloaded executable has an accurate download timestamp to the download time. Must wait for the entire discord call to confirm the download process before proceeding.
 
