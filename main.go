@@ -58,4 +58,8 @@ func main() {
 	}
 	sum := sha256.Sum256(data)
 	fmt.Printf("SHA256:::: %x\n", sum)
+
+	// Wait for user input before exiting
+	fmt.Print("Press Enter to exit...")
+	fmt.Scanln()
 }
