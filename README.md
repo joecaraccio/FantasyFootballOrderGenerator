@@ -22,7 +22,7 @@ Goal to generate a completely Fair Fantasy Football Order. Completely Transparen
 
 1. After each iteration, the RANDOMIZER (Teigue) and 1 additional member must confirm the iteration is complete.
 
-1. On the final iteration, the order is determined, the SHA256 checksum (printed at the end) must match the value listed prior in this document. This is officially the picking order and will be used to determine picking for Draft positions.
+1. On the final iteration is complete, the order is determined, the SHA256 checksum (printed at the end) must match the value listed prior in this document. This is officially the picking order and will be used to determine picking for Draft positions. This order should be screenshot and pasted into discord.
 
 
 
